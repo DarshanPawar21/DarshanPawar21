@@ -40,7 +40,7 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 ---
 
 ## 🎓 Education
-📘 **12th Science**
+📘 **BCA**
 
 ---
 
