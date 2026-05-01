@@ -72,7 +72,7 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RoushanGoswami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=DarshanPawar21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="170"
   />
   <img 
