@@ -76,14 +76,14 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
     height="170"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RoushanGoswami&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanPawar21&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoushanGoswami&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanPawar21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
   />
 </p>
 
@@ -92,7 +92,7 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 <h2 align="left">🚀 My GitHub Journey</h2>
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RoushanGoswami&theme=react-dark&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanPawar21&theme=react-dark&area=true&hide_border=true" 
     alt="GitHub Activity Graph" 
     style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);" 
   />
