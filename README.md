@@ -25,9 +25,6 @@
 
 I enjoy creating **clean, scalable, and user-friendly web applications**.  
 From crafting smooth front-end interfaces to designing solid back-end systems, I love working across the **entire tech stack**.
-
-♟️ Chess plays a big role in my thinking — it sharpens my **logic, patience, and strategic planning**, which directly reflects in my coding style.
-
 ---
 
 ## ⚡ Core Strengths
