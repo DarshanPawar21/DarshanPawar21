@@ -60,7 +60,7 @@ From crafting smooth front-end interfaces to designing solid back-end systems, I
 
 ### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark" />
 </p>
 
 ---
